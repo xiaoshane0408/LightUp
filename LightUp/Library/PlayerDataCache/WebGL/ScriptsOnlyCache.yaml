@@ -24,7 +24,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/TurnOnTheLight.unity:
+    Assets/Scenes/TurnOnTheLight.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -285,12 +285,6 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RoleMoveSet
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAnimator
@@ -518,5 +512,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
-  - Assets/TurnOnTheLight.unity
-  playerPath: C:/xiaoshane0408/LightUp/TurnOnTheLight
+  - Assets/Scenes/TurnOnTheLight.unity
+  playerPath: C:/xiaoshane0408/LightUp/TurnOnTheLightWeb
