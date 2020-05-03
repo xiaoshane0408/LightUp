@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TurnOnTheLight.unity
+    guid: 3303bcf7d5d4cc94a9cb347edaf85262
   m_configObjects: {}
