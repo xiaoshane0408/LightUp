@@ -44,23 +44,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11160}
     - Class: 114
-      Script: {instanceID: 11308}
+      Script: {instanceID: 11316}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 11356}
     - Class: 114
-      Script: {instanceID: 11730}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12110}
+      Script: {instanceID: 12116}
     - Class: 114
-      Script: {instanceID: 12244}
+      Script: {instanceID: 12250}
     - Class: 114
-      Script: {instanceID: 12446}
+      Script: {instanceID: 12452}
     - Class: 114
-      Script: {instanceID: 12590}
+      Script: {instanceID: 12594}
     - Class: 114
-      Script: {instanceID: 12938}
+      Script: {instanceID: 12942}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -513,4 +513,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/TurnOnTheLight.unity
-  playerPath: C:/xiaoshane0408/LightUp/TurnOnTheLightWeb
+  playerPath: C:/shane/LightUp/TurnOnTheLightWeb
